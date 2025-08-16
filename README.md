@@ -1,2 +1,2 @@
-# zouwei.github.io
+# zouwei.blogs
 blogs about tech

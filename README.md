@@ -1,2 +1,2 @@
-# zouwei.blogs
+# blogs
 blogs about tech

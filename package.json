@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev --host",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "latest"
+  },
+  "dependencies": {
+    "markdown-it-footnote": "latest",
+    "markdown-it-task-lists": "latest",
+    "vitepress-plugin-comment-with-giscus": "latest"
+  }
+}
